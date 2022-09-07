@@ -1,0 +1,1 @@
+export const mobile = require("../assets/image/mobile.jpg")
